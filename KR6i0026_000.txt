@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 未來星宿劫千佛名經
+#+DATE: 2015-08-30 20:08:06.200849
+#+PROPERTY: JUAN 0
